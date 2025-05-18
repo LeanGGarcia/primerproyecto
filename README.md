@@ -1,1 +1,2 @@
-# primerproyecto2
+# primerproyecto
+Primero proyecto a realizar!
